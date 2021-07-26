@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thulina Wickramasinghe.
-- 👀 I’m interested in Machine Learning,Data Science,Game Development,Web development.
+- 👀 I’m interested in Machine Learning,Data Science,Web development and Game Development.
 - 🌱 I’m currently an undergraduate at Sri Lankan Institute of Information Technology
 
 <!---
