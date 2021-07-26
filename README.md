@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thulina Wickramasinghe.
-- 👀 I’m interested in AI,Data Science,Game Development,Web development.
-- 🌱 I’m currently studying at Sri Lankan Institute of Information Technology
-- 💞️ I’m looking to collaborate on projects using C++,C,JS,HTML,CSS
+- 👀 I’m interested in Machine Learning,Data Science,Game Development,Web development.
+- 🌱 I’m currently an undergraduate at Sri Lankan Institute of Information Technology
 
 <!---
 ThulinaWickramasinghe/ThulinaWickramasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
