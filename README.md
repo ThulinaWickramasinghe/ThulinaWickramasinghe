@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thulina Wickramasinghe.
-- 👀 I’m interested in Web development, AI and UI/UX.
+- 👀 I’m interested in Full Stack Web Development.
 - 📝 I’m currently reading for BSc(Hons) in IT Specializing in Soft. Eng. at Sri Lankan Institute of Information Technology(SLIIT).
 
 <!---
