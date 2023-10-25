@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Thulina Wickramasinghe.
-- 👀 I’m interested in Full Stack Web Development.
+- 👀 I’m interested in learning new things and problem solving.
+- 💻 Proficient in .NET, MERN, and Azure.
 - 📝 I’m currently reading for BSc(Hons) in IT Specializing in Soft. Eng. at Sri Lankan Institute of Information Technology(SLIIT).
 
 <!---
