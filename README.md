@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Thulina Wickramasinghe.
 - 👀 I’m interested in learning new things and problem solving.
 - 💻 Proficient in .NET, MERN, and Devops.
+- 🏢 I work @qlub as a Junior Frontend Developer.
 - 📝 I’m currently reading for BSc(Hons) in IT Specializing in Soft. Eng. at Sri Lankan Institute of Information Technology(SLIIT).
 
 <!---
