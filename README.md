@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things and problem solving.
 - 💻 Proficient in .NET, MERN, and Devops.
 - 🏢 I work @qlub as a Junior Frontend Developer.
-- 📝 I’m currently reading for BSc(Hons) in IT Specializing in Soft. Eng. at Sri Lankan Institute of Information Technology(SLIIT).
+- 📝 I've graduated with a BSc (Hons) in IT, specializing in Software Engineering, from the Sri Lankan Institute of Information Technology (SLIIT).
 
 <!---
 ThulinaWickramasinghe/ThulinaWickramasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
